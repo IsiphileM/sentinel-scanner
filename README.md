@@ -1,10 +1,12 @@
 # 🛰️ Project Sentinel: Stealth TCP SYN Scanner
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Language-Python%203.x-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Focus-Network%20Security-red?style=for-the-badge&logo=wireshark" />
-  <img src="https://img.shields.io/badge/Status-Active%20Development-green?style=for-the-badge" />
-</div>
+Project Specifications
+System Language: Python 3.12+
+
+Core Engine: Scapy (Packet Manipulation Library)
+Primary Focus: Network Security & Protocol Analysis
+Operational Status: 🟢 Active / Lab Testing Phase
+Network Layer: Layer 4 (Transport Layer)
 
 ---
 
