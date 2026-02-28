@@ -5,7 +5,7 @@ System Language: Python 3.12+
 
 Core Engine: Scapy (Packet Manipulation Library)
 Primary Focus: Network Security & Protocol Analysis
-Operational Status: 🟢 Active / Lab Testing Phase
+Operational Status: Active / Lab Testing Phase
 Network Layer: Layer 4 (Transport Layer)
 
 ---
