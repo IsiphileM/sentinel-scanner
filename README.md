@@ -16,3 +16,4 @@ pip install -r requirements.txt
 
 # Run the scanner (Requires root/admin privileges for raw packet crafting)
 sudo python3 src/sentinel.py 192.168.1.1 80
+
